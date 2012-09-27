@@ -1,4 +1,4 @@
 bin
 .metadata
-data
-lib
+data/
+lib/*
